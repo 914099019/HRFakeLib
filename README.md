@@ -9,7 +9,12 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+## Pod
+
+```ruby
+# podspec file check
+pod spec lint HRFakeLib.podspec --verbose --allow-warnings
+```
 
 ## Installation
 
@@ -27,3 +32,4 @@ IcedOtaku, icedotaku.dev@gmail.com
 ## License
 
 HRFakeLib is available under the MIT license. See the LICENSE file for more info.
+
