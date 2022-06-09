@@ -1,0 +1,6 @@
+framework module HRFakeLib {
+  umbrella header "HRFakeLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

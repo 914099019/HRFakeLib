@@ -1,0 +1,6 @@
+framework module Pods_HRFakeLib_Example {
+  umbrella header "Pods-HRFakeLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
